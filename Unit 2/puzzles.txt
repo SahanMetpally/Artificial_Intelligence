@@ -1,0 +1,1 @@
+ABBCCDDAEFFCGDHEIJCGKHLIJMNKOLPQMNROSPQTTROSUUTVVA 5 +B 9 +C 42 xD 30 xE 1 -F 7 +G 3 -H 6 xI 1 -J 1 -K 3 -L 1 -M 1 -N 8 +O 210 xP 8 +Q 2 /R 6 xS 5 +T 24 xU 7 xV 2 /
